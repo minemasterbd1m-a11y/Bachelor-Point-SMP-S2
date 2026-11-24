@@ -6,7 +6,7 @@
     "default": "INR",
     "base": "INR",
     "options": {
-      "INR": { "label": "INR", "symbol": "₹", "decimals": 0, "rate": 1 },
+      "INR": { "label": "INR", "symbol": "৳", "decimals": 0, "rate": 1 },
       "USD": { "label": "USD", "symbol": "$", "decimals": 2, "rate": 0.012 }
     }
   },
