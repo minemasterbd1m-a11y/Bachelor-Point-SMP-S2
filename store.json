@@ -102,51 +102,107 @@
       "title": "Crate keys",
       "subtitle": "Open crates for cosmetics, gear and rare collectables. Keys are delivered to your account.",
       "boardTitle": "Crate key bundles",
-      "boardText": "Keys work on every crate in the lobby - common, rare and legendary.",
+      "boardText": "Pick the key for the crate you want to open.",
       "note": "",
       "buttonText": "Buy keys",
       "cards": [
         {
-          "name": "3 crate keys",
-          "amount": "x3",
+          "name": "VIP KEY",
+          "amount": "x1",
           "image": "assets/key.png",
-          "price": 134,
-          "colour": "purple",
-          "tagline": "Try your luck on the common crate.",
+          "price": 20,
+          "colour": "gold",
+          "tagline": "Open the VIP crate for rewards.",
           "perks": [
-            "3 common crate keys",
-            "Works on all crates"
+            "1 VIP KEY",
+            "Delivered to your account"
           ],
           "featured": false,
           "badge": ""
         },
         {
-          "name": "10 crate keys",
-          "amount": "x10",
+          "name": "ELITE KEY",
+          "amount": "x1",
           "image": "assets/key.png",
-          "price": 359,
-          "colour": "#a855f7",
-          "tagline": "A solid bundle with a bonus key.",
+          "price": 40,
+          "colour": "teal",
+          "tagline": "Open the ELITE crate for rewards.",
           "perks": [
-            "10 common crate keys",
-            "+1 bonus key"
+            "1 ELITE KEY",
+            "Delivered to your account"
+          ],
+          "featured": false,
+          "badge": ""
+        },
+        {
+          "name": "LEGEND KEY",
+          "amount": "x1",
+          "image": "assets/key.png",
+          "price": 70,
+          "colour": "purple",
+          "tagline": "Open the LEGEND crate for rewards.",
+          "perks": [
+            "1 LEGEND KEY",
+            "Delivered to your account"
           ],
           "featured": true,
           "badge": "Best value"
         },
         {
-          "name": "25 crate keys",
-          "amount": "x25",
+          "name": "MYTHIC KEY",
+          "amount": "x1",
           "image": "assets/key.png",
-          "price": 809,
+          "price": 85,
           "colour": "magenta",
-          "tagline": "For serious crate openers.",
+          "tagline": "Open the MYTHIC crate for rewards.",
           "perks": [
-            "25 common crate keys",
-            "+5 legendary crate keys"
+            "1 MYTHIC KEY",
+            "Delivered to your account"
           ],
           "featured": false,
-          "badge": "Collector"
+          "badge": ""
+        },
+        {
+          "name": "IMMORTAL KEY",
+          "amount": "x1",
+          "image": "assets/key.png",
+          "price": 100,
+          "colour": "#ef4444",
+          "tagline": "Open the IMMORTAL crate for rewards.",
+          "perks": [
+            "1 IMMORTAL KEY",
+            "Delivered to your account"
+          ],
+          "featured": false,
+          "badge": "Ultimate"
+        },
+        {
+          "name": "GOD KEY",
+          "amount": "x1",
+          "image": "assets/key.png",
+          "price": 130,
+          "colour": "red",
+          "tagline": "Open the GOD crate for rewards.",
+          "perks": [
+            "1 GOD KEY",
+            "Delivered to your account"
+          ],
+          "featured": false,
+          "badge": ""
+        },
+        {
+          "name": "CELESTIAL KEY",
+          "amount": "x1",
+          "image": "assets/key.png",
+          "price": 170,
+          "colour": "#22d3ee",
+          "tagline": "Open the CELESTIAL crate for rewards.",
+          "perks": [
+            "1 CELESTIAL KEY",
+            "Delivered to your account"
+          ],
+          "featured": false,
+          "badge": ""
         }
       ]
     }
@@ -243,16 +299,7 @@
       "featured": false,
       "badge": ""
     },
-    {
-      "name": "GOD",
-      "price": 700,
-      "colour": "red",
-      "tagline": "Unlock the GOD rank on the server.",
-      "perks": [
-        "Everything in MYTHIC",
-        "GOD rank and chat prefix",
-        "GOD role in Discord"
-      ],
+     { 
       "featured": false,
       "badge": "Popular"
     },
