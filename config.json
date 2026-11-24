@@ -1,9 +1,9 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
+  "serverName": "Bachelor Point SMP S2",
+  "serverIp": "neon.qbitnode.com:4362",
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
+  "discordLink": "https://discord.gg/VpFRUWRB7a",
   "logoPath": "logo.jpg",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
