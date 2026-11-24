@@ -63,7 +63,7 @@
           "name": "5,000 coins",
           "amount": "5K",
           "image": "assets/coin.png",
-          "price": { "INR": 399, "USD": 4.99 },
+          "price": { "TAKA": 399, "USD": 4.99 },
           "colour": "#eab308",
           "tagline": "Most popular pack with bonus coins.",
           "perks": ["5,000 in-game coins", "+500 bonus coins"],
